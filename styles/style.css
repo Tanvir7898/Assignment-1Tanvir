@@ -309,7 +309,7 @@ color:#0D1321;
 }
 /* feed back style */
 .support{
-  max-width: 1020px;
+  max-width: 1040px;
   margin: 0 auto;
   background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(13, 19, 33, 1)), url(../assets/handshake.jpg);
   background-repeat: no-repeat;
@@ -374,7 +374,7 @@ footer{
 .parent-footer{
   display: flex;
   justify-content: space-between;
-  max-width: 1020px;
+  max-width: 1040px;
   align-items: center;
   margin-left: 240px;
   padding-top: 15px;
