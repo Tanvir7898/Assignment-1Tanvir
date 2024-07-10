@@ -39,6 +39,7 @@ nav ul li{
   border-radius: 5px;
   font-size: 20px;
   margin-right: 20px;
+
 }
 /* Banner Styles */
 .banner{
@@ -76,6 +77,11 @@ nav ul li{
   margin-left: 360px;
   margin-top: 26px;
   margin-bottom: 20px;
+
+}
+.foot-link{
+  text-decoration: none;
+  color: white;
 }
 .background{
   background-image: url(../assets/Hero-bg.png);
@@ -359,6 +365,25 @@ color:#0D1321;
   color:#0D1321;
   padding: 10px 30px;
   border-radius: 8px;
+}
+/* footer styles */
+footer{
+  margin-top: 20px;
+  background-color: rgba(13, 19, 33, 0.03);
+}
+.parent-footer{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1020px;
+  align-items: center;
+  margin-left: 240px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.footer-title{
+  font-size: 20px;
+  font-weight: 600;
+  color: #0D1321;
 }
 
 
