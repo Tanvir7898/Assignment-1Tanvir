@@ -99,10 +99,11 @@ main{
   margin-top: 70px;
   text-align: center;
 }
-.man-body{
+.main-body{
   background-color: rgba(13, 19, 33, 0.02);
   padding-top: 50px; 
   border-radius: 15px;
+  padding-bottom: 50px;
 }
 .linear-Bg{
  background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
@@ -183,6 +184,7 @@ main{
   justify-content: space-between;
   border-radius: 10px;
   margin-left: 40px;
+
 }
 .p3-left{
   max-width: 350px;
@@ -198,4 +200,35 @@ main{
   padding: 10px 30px;
   margin-top: 20px;
   margin-bottom: 10px;
+}
+
+.next-body{
+  padding-top: 50px;
+}
+.next-body-head{
+  max-width: 700px;
+  margin-left: 150px;
+  text-align: center;
+}
+.YT-Video{
+  padding: 30px;
+  background-color: #ffffff;
+  border: 0.5px solid rgba(13, 19, 33, 0.2);
+  align-items: center;
+  border-radius: 15px;
+  
+}
+.Video1{
+  border-radius: 10px;
+}
+.tile-2{
+  font-size: 30px;
+  font-weight: 800;
+  color: #0D1321;
+}
+.des2{
+  font-size: 18px;
+  font-weight: 400;
+  color: #0D1321;
+  margin-bottom: 40px;
 }
